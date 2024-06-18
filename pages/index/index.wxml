@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<view class='huandeng'>
+<image src='/image/1.png'></image>
+</view>
+
+    <view class="text">
+        <view class="line_y"></view>
+        <text>联系方式</text>
+    </view>
+
+<view>
+<view class="call1"  bindtap='calling'><image src="/image/dianhua.jpg"></image></view>
+
+<view>
+<button class="kefu1" open-type="contact" session-from="weapp"><image src="/image/kefu.jpg"></image></button></view>
+
+<view class='ditu1'><button bindtap="openMap"><image src='/image/ditu.png'></image>深圳市宝岗区小林村50号</button></view>
+</view>
+<view class='kong'></view>
+<view class='bo1'>
+</view>
+    <view class="text">
+        <view class="line_y"></view>
+        <text>特别推荐</text>
+    </view>
+<view class="nr2">
+    <image src="/image/aa1.jpg"></image>
+</view>
+
+<view class="nr3">
+    <image src="/image/aa2.jpeg"></image>
+</view>
+<view class="nr4">
+    <image src="/image/aa3.jpg"></image>
+</view>

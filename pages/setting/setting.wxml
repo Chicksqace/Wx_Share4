@@ -1,0 +1,23 @@
+<!--index.wxml-->
+
+<view class="gy1">
+    <image src="/image/gy1.jpg"></image>
+</view>
+ <view class="text">
+        <view class="line_y"></view>
+        <text>关于店铺</text>
+    </view> 
+
+     <view class="text2">
+        <text>
+   公司介绍xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+店铺地址：XXXXXXXXXXXXXXXXXXXXX
+联系电话：400-0000-000
+购买源码淘宝店铺：泉州大白网络科技
+旺旺ID：lzc940217
+</text>
+    </view> 
+
+<view class="gy">
+    <image src="/image/gy.jpg"></image>
+</view>

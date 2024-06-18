@@ -1,0 +1,125 @@
+/**index.wxss**/
+.huandeng image{
+width: 100%;
+height: 400rpx;
+}
+.biaoti{
+font-size: 22px;
+font-weight: bold;
+}
+
+.xing image{
+  width: 250rpx;
+  height: 60rpx;
+}
+
+.fuwu{
+  font-size: 16px;
+  color: #666;
+  height: 60rpx;
+}
+
+.bo1 button{
+  text-align: left;
+}
+
+.bo1 image{
+width: 60rpx;
+height: 60rpx;
+margin-top: 5px;
+}
+.nr2 image{
+width: 100%;
+height: 180px;
+}
+
+.nr3 image{
+width: 100%;
+height: 230px;
+}
+
+.nr4 image{
+width: 100%;
+height: 180px;
+}
+
+.nr5 image{
+width: 100%;
+height:696px;
+}
+.index-nav view {
+  flex: 1;
+  flex-direction: column;
+  border-right: 1px solid #F2f2f2;
+}
+.index-nav image {
+  width: 38px;
+  height: 38px;
+}
+.index-nav text {
+  font-size: 16px;
+}
+
+
+view.text {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 10px 10px 10px 12px;
+  font-size: 15px;
+  color: #656565;
+}
+
+view.text:before {
+    position: absolute;
+    display: block;
+    content: ' ';
+    left: -5px;
+    width: 2px;
+    height: 100%;
+    background-color: #09bb07;
+}
+.line_y {
+  width: 3px;
+  height: 100%;
+  height: 18px;
+  display: inline-block;
+  background-color: #09bb07;
+}
+view.text text {
+  margin-left: 10px;
+  line-height: 18px;
+}
+
+.item {
+  margin-bottom: 7px;
+  height: 126px;
+}
+
+.nr11{
+
+}
+.nr11 image{
+width: 100%;
+height: 280rpx;
+}
+
+.call1 image{
+width: 360rpx;
+height: 150rpx;
+float: left;
+}
+.kefu1 image{
+width: 360rpx;
+height: 150rpx;
+}
+.ditu1 image{
+width:80rpx;
+height:80rpx;
+}
+.ditu1 button{
+  background: #8e9218;
+}
+.kong{
+  height: 20rpx;
+}
